@@ -4,7 +4,7 @@ This is a repository for PHBS Quantitative Problem Solving 2024-2025 course.
 
 ## Homework 1
 
-> Fetch data from FRED
+> **Instruction:** Fetch data from FRED
 
 This can be done by the following steps:
 
