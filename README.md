@@ -4,7 +4,7 @@ This is a repository for PHBS Quantitative Problem Solving 2024-2025 course.
 
 ## Homework 1
 
-> **Instruction:** Fetch data from FRED
+> GitHub link: [https://github.com/ZichaoXiong/phbs-qps-2024](https://github.com/ZichaoXiong/phbs-qps-2024)
 
 This can be done by the following steps:
 
